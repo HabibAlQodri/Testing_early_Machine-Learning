@@ -1,4 +1,4 @@
-# 03 · Machine Learning — Perbandingan Model
+# Machine Learning Perbandingan Model
 
 Membandingkan Logistic Regression, KNN, Random Forest, dan Gradient Boosting pada dataset *breast cancer* (bawaan scikit-learn, tanpa unduhan)
 dengan **cross-validation 5-fold**, akurasi uji, dan **ROC-AUC**.
